@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrimeTester",
+            "request": "launch",
+            "mainClass": "app.PrimeTester",
+            "projectName": "PrimeCounter"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FasterPrimeTest",
+            "request": "launch",
+            "mainClass": "app.FasterPrimeTest",
+            "projectName": "PrimeCounter"
+        }
+    ]
+}
