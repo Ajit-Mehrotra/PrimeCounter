@@ -2,7 +2,7 @@ package app;
 
 
 public class FasterPrimeCounter {
-
+//test comment
     public boolean isPrime(int N) {
       
         for (int counter = 2; counter <= N/2; counter++) {
